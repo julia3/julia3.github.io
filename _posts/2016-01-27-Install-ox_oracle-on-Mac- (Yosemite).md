@@ -32,5 +32,5 @@ export LD_LIBRARY_PATH=$ORACLE_HOME
 ```
 
 #### Finally, install cx_oracle with pip:
-pip install cx_oracle
+```pip install cx_oracle```
 

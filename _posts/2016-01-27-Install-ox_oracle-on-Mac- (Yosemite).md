@@ -7,8 +7,7 @@ date: 2016-01-27
 
 ox_Oracle is a python module that allows developers to connet to Oracle Database. Although The installation process is messy process, we'll try to make it simple for you.
 
-
-
+&nbsp;
 
 Create a directory ```/usr/lib/share/oracle```
 Download the necessary zip files from http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
@@ -46,6 +45,7 @@ Finally, install cx_oracle with pip:
 pip install cx_oracle
 ```
 
+&nbsp;
 
 **References:**
 
